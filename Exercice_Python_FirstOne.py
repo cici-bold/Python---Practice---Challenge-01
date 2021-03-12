@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Python - The First One
 
 # In[4]:
 
@@ -12,7 +11,6 @@ names_list = names.split('\n')
 print(names_list[0:10])
 
 
-# ---
 
 # In[8]:
 
@@ -26,7 +24,6 @@ for name in names_list:
 print(names_data[0:5])
 
 
-# ---
 
 # In[10]:
 
@@ -42,7 +39,6 @@ for line in names_data:
 print(numerical_list[0:5])
 
 
-# ---
 
 # In[11]:
 
